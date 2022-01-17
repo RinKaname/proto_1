@@ -117,6 +117,7 @@ def main():
         home()
     else:
         print("input the right option")
+        main()
 
 main()
 
