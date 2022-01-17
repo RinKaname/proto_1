@@ -1,3 +1,2 @@
 # proto_1
-creating text-based game simulation
-in development
+creating text-based game simulation still in development
